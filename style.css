@@ -1,0 +1,28 @@
+/* header */
+
+header {
+    background-color: red;
+    color: white;
+}
+
+.china {
+    max-width: 700px;
+    max-height: 900px;
+}
+.china1 {
+    max-width: 300px;
+    max-height: 300px;
+    margin-left: 200px;
+    transform: translateY(-80px);
+}
+
+h1 {
+    margin-left: 890px;
+    transform: translateY(-70px);
+}
+
+/* question */
+.q1 {
+    background-color: red;
+    color: white;
+}
